@@ -8,6 +8,7 @@
 
 
 
+
 #### 1、数据去重问题
 
 全部的数据前期是采用**布隆过滤器**进行去重的，但后来发现并不需要这么麻烦，后用了一个小技巧进行去重。
@@ -34,7 +35,5 @@
 
 
 
-后面的时候，还借助JD的一个部分手机收据，使用Neo4J图形数据库做了一个可视化的**[小型手机知识图谱](https://github.com/forthespada/JD_Cellphone_KnowledgeGraph)**
-
-
+后面的时候，还借助JD的一个部分手机收据，使用Neo4J图形数据库做了一个可视化的[小型手机知识图谱](https://github.com/forthespada/JD_Cellphone_KnowledgeGraph)
 
